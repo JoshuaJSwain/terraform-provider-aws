@@ -1,0 +1,21 @@
+.changelog/43649.txt
+  s_f75e8e675c470e::t_cf322529734ffc 3
+internal/service/vpclattice/service_package_gen.go
+  s_f75e8e675c470e::t_d3321c1175b619 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "9f6c52ed85868ca3a0561de8ab9833e72caf173a",
+  "prompts": {},
+  "sessions": {
+    "s_f75e8e675c470e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ea225305-27da-4b22-b829-878d4214a650",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}
