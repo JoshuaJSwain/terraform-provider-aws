@@ -1,0 +1,30 @@
+internal/service/vpclattice/service_network_resource_associations_data_source_test.go
+  s_4a52e9497883f3::t_ed9d46752743da 10
+  s_4a52e9497883f3::t_d2b9686f67f781 228-262
+.agent/tmp/code-review-vpclattice-sn-resource-associations.md
+  s_6483eeefe8e648::t_2f535b797862e8 1-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c8c35fb88b8594437405ba5fc30f2f67fa5c2afe",
+  "prompts": {},
+  "sessions": {
+    "s_4a52e9497883f3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bf8b80ba-454a-4f7b-b177-a2ad97129c94",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    },
+    "s_6483eeefe8e648": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "119f4c39-a454-4cf7-8958-f09f3c7fdc6a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}
