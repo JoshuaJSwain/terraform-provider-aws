@@ -1,0 +1,20 @@
+.agent/tmp/pr-body-43649.md
+  s_6483eeefe8e648::t_bfdc654967bc8d 28
+  s_6483eeefe8e648::t_6cde74f0e5b97b 1-27,29-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0a987a5e916f0c2d65f6022548f709fbe3fa4251",
+  "prompts": {},
+  "sessions": {
+    "s_6483eeefe8e648": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "119f4c39-a454-4cf7-8958-f09f3c7fdc6a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}
