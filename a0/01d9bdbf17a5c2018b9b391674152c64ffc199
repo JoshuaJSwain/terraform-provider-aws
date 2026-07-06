@@ -1,0 +1,29 @@
+internal/service/vpclattice/service_network_resource_associations_data_source.go
+  s_4a52e9497883f3::t_32164f009a7260 54-58
+  s_4a52e9497883f3::t_91c11086377a0a 152
+website/docs/d/vpclattice_service_network_resource_associations.html.markdown
+  s_4a52e9497883f3::t_35cba028f02d3e 52
+internal/service/vpclattice/service_network_resource_associations_data_source_test.go
+  s_4a52e9497883f3::t_d57cb7d2d11ab2 112
+  s_4a52e9497883f3::t_4fd10b5d8d8a3a 149,155
+  s_4a52e9497883f3::t_2ef008cb170491 225
+  s_4a52e9497883f3::t_1614210f60922c 22
+  s_4a52e9497883f3::t_a6bdb834b6f5b0 89-105
+  s_4a52e9497883f3::t_4258fa07399a85 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a001d9bdbf17a5c2018b9b391674152c64ffc199",
+  "prompts": {},
+  "sessions": {
+    "s_4a52e9497883f3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bf8b80ba-454a-4f7b-b177-a2ad97129c94",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}
