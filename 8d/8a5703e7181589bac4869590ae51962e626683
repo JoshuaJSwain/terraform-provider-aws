@@ -1,0 +1,26 @@
+internal/service/vpclattice/service_network_resource_associations_data_source.go
+  s_1a58a418f3556b::t_90cf923ca169cd 94
+  s_1a58a418f3556b::t_c93fc045303d3d 8
+  s_1a58a418f3556b::t_8dd4132608e688 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "8d8a5703e7181589bac4869590ae51962e626683",
+  "prompts": {},
+  "humans": {
+    "h_d1e4d60955b97a": {
+      "author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  },
+  "sessions": {
+    "s_1a58a418f3556b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a4e2a82-f394-4ab4-8b2f-1449a0e995e9",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}

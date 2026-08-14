@@ -1,0 +1,27 @@
+internal/service/vpclattice/service_network_resource_associations_data_source_test.go
+  s_6483eeefe8e648::t_5c16b088d7b33c 94-97
+website/docs/d/vpclattice_service_network_resource_associations.html.markdown
+  s_6483eeefe8e648::t_15ad6b52a9fb54 6
+  s_6483eeefe8e648::t_fe2db6e62045ce 46
+internal/service/vpclattice/service_network_resource_associations_data_source.go
+  s_6483eeefe8e648::t_341f1965090b91 13
+  s_6483eeefe8e648::t_5ea8949e7401d6 70
+  s_6483eeefe8e648::t_c76e9929406c91 88
+  s_6483eeefe8e648::t_6ec55b0a147ff6 141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "57c6df61c71ad783491fed79b19f69452f8469c7",
+  "prompts": {},
+  "sessions": {
+    "s_6483eeefe8e648": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "119f4c39-a454-4cf7-8958-f09f3c7fdc6a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}

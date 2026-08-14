@@ -1,0 +1,21 @@
+.agent/tmp/acctest-48796.txt
+  s_6483eeefe8e648::t_a4d0984cd01522 1-6
+internal/service/vpclattice/service_network_resource_associations_data_source_test.go
+  s_6483eeefe8e648::t_8a3fc5475c1337 90-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1d9eb4bb44fb1a10e27ca2fa869b36c4dd38fc9f",
+  "prompts": {},
+  "sessions": {
+    "s_6483eeefe8e648": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "119f4c39-a454-4cf7-8958-f09f3c7fdc6a",
+        "model": "unknown"
+      },
+      "human_author": "Joshua Swain <joshuasw@zillowgroup.com>"
+    }
+  }
+}
